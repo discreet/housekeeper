@@ -1,0 +1,4 @@
+# Files to ignore
+config/config.yaml
+config/.creds.yaml
+

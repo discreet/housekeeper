@@ -1,0 +1,11 @@
+---
+housemate1:
+  contact: 'eamil'
+  chores:
+    - 'chore1'
+    - 'chore2'
+housemate2:
+  contact: 'email'
+  chores:
+    - 'chore3'
+    - 'chore4'
